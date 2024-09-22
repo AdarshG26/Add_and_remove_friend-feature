@@ -1,0 +1,1 @@
+Add and remove friend feature with same button
